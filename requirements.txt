@@ -1,4 +1,3 @@
-appdirs==1.4.4
 asgiref==3.2.10
 bcrypt==3.2.0
 beautifulsoup4==4.9.3
@@ -30,18 +29,9 @@ idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.2
 jsonpickle==2.0.0
-Kivy==2.0.0
-kivy-deps.angle==0.3.0
-kivy-deps.glew==0.3.0
-kivy-deps.sdl2==0.3.1
-Kivy-examples==2.0.0
-Kivy-Garden==0.1.4
 lxml==4.6.1
 MarkupSafe==1.1.1
 more-itertools==8.6.0
-MouseInfo==0.1.3
-mysql-connector==2.2.9
-Naked==0.1.31
 numpy==1.19.4
 opencv-contrib-python==4.5.1.48
 opencv-python==4.4.0.46
@@ -49,7 +39,6 @@ pefile==2019.4.18
 phonenumbers==8.12.15
 Pillow==8.0.1
 pipenv==2020.11.4
-py2exe==0.10.2.1
 pycparser==2.20
 pycryptodome==3.10.1
 pygame==2.0.1
@@ -57,13 +46,7 @@ PyGetWindow==0.0.9
 Pygments==2.8.1
 pyinstaller==4.0
 pyinstaller-hooks-contrib==2020.9
-PyMsgBox==1.0.9
-PyPDF2==1.26.0
-pyperclip==1.8.2
-pypiwin32==223
-PyQt5==5.15.2
-PyQt5-sip==12.8.1
-PyQtWebEngine==5.15.2
+PyMsgBox==1.0.1
 PyRect==0.1.4
 PyScreeze==0.1.27
 pyshorteners==1.0.1
@@ -74,8 +57,6 @@ pytube==10.0.0
 PyTweening==1.0.3
 pytz==2020.1
 pywebio==1.2.3
-pywin32==300
-pywin32-ctypes==0.2.0
 PyYAML==5.4.1
 qrcode==6.1
 requests==2.25.0
