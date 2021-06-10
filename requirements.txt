@@ -50,8 +50,6 @@ phonenumbers==8.12.15
 Pillow==8.0.1
 pipenv==2020.11.4
 py2exe==0.10.2.1
-PyAudio @ file:///C:/Users/pc/Downloads/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
-PyAutoGUI==0.9.52
 pycparser==2.20
 pycryptodome==3.10.1
 pygame==2.0.1
